@@ -8,7 +8,7 @@ if status is-interactive
     abbr -a nv nvim
     abbr -a lg lazygit
     abbr -a gits git status
-    abbr -a gitc git commit .
+    abbr -a gita git add .
 end
 
 # pnpm
